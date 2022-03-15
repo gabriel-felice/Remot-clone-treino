@@ -5,5 +5,5 @@ Projeto de treinamento em HTML, CSS com Flexbox e Grid.
   
   commit-inicial - Upload inicial do exercício. Estrutura pronta, porém sem responsividade.
   
-  Implementação da Responsividade - Configuração inicial da responsividade do site em resoluções mais baixas.
+  Implementação da Responsividade - Configuração inicial da responsividade do site em resoluções mais baixas e uma pequena melhoria na organização do código. É sempre bom manter um código bonito e organizado.
   
