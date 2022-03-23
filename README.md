@@ -1,5 +1,6 @@
 # Remotar-Clone-de-Treino-HTML-E-CSS
 Projeto de treinamento em HTML, CSS com Flexbox e Grid.
+SASS agora faz parte do treinamento.
 
   Um exercício proposto por mim mesmo para testar o desenvolvimento das minhas habilidades e aprendizado em HTML e CSS, principalmente CSS Grid e FLEXBOX.
   
